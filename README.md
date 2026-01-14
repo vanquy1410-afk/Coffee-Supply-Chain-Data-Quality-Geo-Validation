@@ -12,6 +12,19 @@ The project focuses on:
 The dataset structure and data issues are designed to closely resemble
 **real-world regulatory and sourcing challenges** in the coffee supply chain.
 
+## Data Cleaning & Validation Scope
+- Handling missing values (blank → "Unknown")
+- Country–Continent consistency checks
+- ID relationship validation (Farmer ID vs Shipment ID)
+- Date and year standardization
+- Categorical value normalization
+
+## Tools Used
+- Microsoft Excel (PivotTable, Power Query, validation formulas)
+- CSV / XLS structured datasets
+- GIS data concepts (location consistency)
+
+
 ---
 
 ## Dataset Disclaimer
